@@ -6,12 +6,12 @@
 
 <h1><strong>Labs:</strong></h1>
 <ol type="1">
-	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Advanced-March-2018/01.SOLID-Principles/Lab/">SOLID Principles</li>
+	<li><a href="https://github.com/radoslavvv/CSharp-OOP-Advanced-March-2018/tree/master/01.SOLID-Principles/Lab">SOLID Principles</li>
 </ol>
 
 <h1><strong>Exercises:</strong></h1>
 <ol type="1">
-  <li><a href="https://github.com/radoslavvv/CSharp-OOP-Advanced-March-2018/01.SOLID-Principles/Exercises/">SOLID Principles</li>
+  <li><a href="https://github.com/radoslavvv/CSharp-OOP-Advanced-March-2018/tree/master/01.SOLID-Principles/Exercises">SOLID Principles</li>
 </ol>
 
 <h1><strong><a href="">Bashoft</a></strong></h1>
