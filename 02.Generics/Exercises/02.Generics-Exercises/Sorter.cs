@@ -7,8 +7,7 @@ public class Sorter
     public static CustomList<T> Sort<T>(CustomList<T> list) 
         where T:IComparable<T>
     {
-
-        for (int i = 0; i < list.Items.Count - 1; i++)
+        for (int i = 0; i < list.Count - 1; i++)
         {
             for (int j = i + 1; j > 0; j--)
             {
@@ -20,7 +19,6 @@ public class Sorter
                 }
             }
         }
-
         return list;
     }
 }
